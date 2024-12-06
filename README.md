@@ -10,7 +10,7 @@ Unenchanted is a lightweight Minecraft plugin designed to disable all enchantmen
 - **Lightweight**: Minimal performance impact, designed for efficient operation.
 
 ## Installation
-1. Download the latest release from the [Releases]([https://github.com/your-repo/releases](https://github.com/ICodKid/Unenchanted/blob/master/unenchanted-elytra.jar)) page.
+1. Download the latest release from the [Releases]([https://github.com/your-repo/releases](https://github.com/ICodKid/Unenchanted/releases)) page.
 2. Place the `.jar` file into your server's `plugins` folder.
 3. Restart your server to activate the plugin.
 
