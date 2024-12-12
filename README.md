@@ -1,40 +1,64 @@
-# Unenchanted
+# 🛡️ Unenchanted 🛡️
 
-Unenchanted is a lightweight Minecraft plugin designed to disable all enchantments on Elytra, ensuring balanced gameplay. While blocking Elytra enchantments, the plugin retains the ability to repair Elytra with phantom membranes, maintaining their usability.
+**Unenchanted** is a lightweight Minecraft plugin designed to disable all enchantments on Elytra, ensuring balanced gameplay. While blocking Elytra enchantments, the plugin retains the ability to repair Elytra with phantom membranes, maintaining their usability. ✨&#x20;
 
-## Features
-- **Disable Elytra Enchantments**: Blocks all Elytra enchantments, whether through enchanted books or enchanted table.
-- **Allow Repairs**: Elytra can still be repaired with phantom membranes to maintain functionality.
-- **Fair Gameplay**: Ensures Elytra remains a useful but balanced item.
-- **Player Feedback**: Notifies players when enchantments on Elytra are blocked.
-- **Lightweight**: Minimal performance impact, designed for efficient operation.
+## 🌟 Features 🌟
 
-## Installation
-1. Download the latest release from the [Releases](https://github.com/ICodKid/Unenchanted/releases/tag/untagged-612febe6aed1bc90a0b7) page.
+- **❌ Disable Elytra Enchantments**: Blocks all Elytra enchantments, whether through enchanted books or enchantment tables.
+- **🔧 Allow Repairs**: Elytra can still be repaired with phantom membranes to maintain functionality.
+- **⚖️ Fair Gameplay**: Ensures Elytra remains a useful but balanced item.
+- **📢 Player Feedback**: Notifies players when enchantments on Elytra are blocked.
+- **💡 Lightweight**: Minimal performance impact, designed for efficient operation.
+
+## 📥 Installation 📥
+
+1. **Download** the latest release from the [Releases](https://github.com/ICodKid/Unenchanted/releases/tag/untagged-612febe6aed1bc90a0b7) page.
 2. Place the `.jar` file into your server's `plugins` folder.
-3. Restart your server to activate the plugin.
+3. Restart your server to activate the plugin. 🚀
 
-## Usage
-- Players attempting to enchant Elytra in an anvil with any item, including enchanted books, will be prevented.
-- Repairs with phantom membranes remain unaffected and function as usual.
+## 🛠️ Usage 🛠️
 
-## Compatibility
+- Players attempting to enchant Elytra in an anvil with any item, including enchanted books, will be prevented. ✋
+- Repairs with phantom membranes remain unaffected and function as usual. 🛠️
+
+## 🔄 Compatibility 🔄
+
 - **Minecraft Versions**: Built for Minecraft 1.20+ but should work with other versions that support Elytra.
 - **Server Compatibility**: Compatible with any server implementation that supports Bukkit/Spigot API.
 
-## Example Use Cases
-- **Survival Servers**: Prevent overpowered Elytra enchantments while allowing repairs.
-- **Challenge Servers**: Maintain balanced Elytra mechanics for a fair experience.
+## 💡 Example Use Cases 💡
 
-## Contributing
-We welcome contributions! If you'd like to report a bug, suggest a feature, or contribute code, feel free to open an issue or submit a pull request.
+- **🏕️ Survival Servers**: Prevent overpowered Elytra enchantments while allowing repairs.
+- **🎮 Challenge Servers**: Maintain balanced Elytra mechanics for a fair experience.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## 🤝 Contributing 🤝
 
-## Support
-If you encounter any issues or have questions, please open an issue in this repository. We’re happy to help!
+We welcome contributions! If you'd like to report a bug, suggest a feature, or contribute code:
+
+1. Open an issue to discuss the change. 🐛
+2. Fork the repository. 🍴
+3. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+4. Commit your changes:
+   ```bash
+   git commit -m "Add feature description here"
+   ```
+5. Push the branch:
+   ```bash
+   git push origin feature-name
+   ```
+6. Submit a pull request. 💻
+
+## 📜 License 📜
+
+This project is licensed under the [MIT License](LICENSE). 📝
+
+## 🙋 Support 🙋
+
+If you encounter any issues or have questions, please open an issue in this repository. We’re happy to help! 😊
 
 ---
 
-**Unenchanted**: Keep your Elytra balanced and gameplay fair!
+**Unenchanted**: Keep your Elytra balanced and gameplay fair! 🌍✨ (◕‿◕)
