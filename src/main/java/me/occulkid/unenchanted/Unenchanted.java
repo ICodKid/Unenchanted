@@ -1,5 +1,6 @@
 package me.occulkid.unenchanted;
 
+import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -30,10 +31,11 @@ public final class Unenchanted extends JavaPlugin implements Listener {
 
         // Check if the first item is an Elytra
         if (firstItem != null && firstItem.getType() == Material.ELYTRA) {
-            // Prevent any combination involving the Elytra
-            if (secondItem != null) {
+            // Check if the second item is an enchanted book
+            if (secondItem != null && secondItem.getType() == Material.ENCHANTED_BOOK) {
+                // Prevent any combination of Elytra with enchanted books
                 event.setResult(null); // Block the combination
-                event.getView().getPlayer().sendMessage("Enchanting Elytra is completely disabled on this server.");
+                event.getView().getPlayer().sendMessage(ChatColor.RED + "Enchanting Elytra with books is completely disabled on this server.");
             }
         }
     }

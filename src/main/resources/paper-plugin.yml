@@ -2,3 +2,5 @@ name: Unenchanted
 version: '1.0-SNAPSHOT'
 main: me.occulkid.unenchanted.Unenchanted
 api-version: '1.21'
+description: Prevents players from enchanting Elytra with books and only allows repairs using Phantom Membranes.
+author: OccultKid OR ICodKid
